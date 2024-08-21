@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hugging-face-llm/static/css/main.e6c13ad2.css",
+    "main.js": "/hugging-face-llm/static/js/main.b3399d13.js",
+    "index.html": "/hugging-face-llm/index.html",
+    "main.e6c13ad2.css.map": "/hugging-face-llm/static/css/main.e6c13ad2.css.map",
+    "main.b3399d13.js.map": "/hugging-face-llm/static/js/main.b3399d13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b3399d13.js"
+  ]
+}
