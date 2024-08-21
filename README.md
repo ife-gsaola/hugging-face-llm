@@ -1,4 +1,4 @@
-# Blockchain Query System
+# Hugging Face LLM Project With AWS & React
 
 ## Overview
 
