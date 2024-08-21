@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an LLM project that allows users to interact with a pre-trained language model (HuggingFace) deployed on AWS. Users can submit queries about blockchain concepts through a web-based interface, and the system provides real-time responses using AWS services.
+This is an LLM project that allows users to interact with a pre-trained language model (HuggingFace) deployed on AWS. Users can submit queries through a web-based interface, and the system provides real-time responses using AWS services.
 
 ## Architecture
 
